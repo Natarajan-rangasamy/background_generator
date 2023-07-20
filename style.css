@@ -1,0 +1,22 @@
+h1 {
+  font-family:'Raleway',sans-serif;
+  letter-spacing: 0.5em;
+  text-align: center;
+  font-stretch: extra-expanded;
+  padding: 5px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+input {
+  margin: 10px;
+}
+h3 {
+  text-align: center;
+  letter-spacing: .2em;
+}
+body{
+    background: linear-gradient(to left, green,grey);
+}
